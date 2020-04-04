@@ -1,11 +1,6 @@
-name: example-environment
-channels:
-  - conda-forge
+name: basic-environment
 dependencies:
-  - python=3.6
-  - numpy
   - pip:
     - pandas
-    - matplotlib
     - xlrd
     - RISE
