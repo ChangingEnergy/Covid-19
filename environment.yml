@@ -2,5 +2,6 @@ name: basic-environment
 dependencies:
   - pip:
     - pandas
+    - matplotlib
     - xlrd
     - RISE
