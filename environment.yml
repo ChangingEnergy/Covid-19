@@ -4,6 +4,7 @@ dependencies:
     - pandas
     - numpy
     - matplotlib
+    - openpyxl
     - xlrd
     - RISE
     - fbprophet
